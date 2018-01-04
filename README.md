@@ -1,4 +1,4 @@
-# org-mylabyrinth-app
+# react-org-mylabyrinth-app
 
 MyLabyrinth.org setup
 
